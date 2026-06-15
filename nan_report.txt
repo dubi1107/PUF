@@ -1,0 +1,106 @@
+=== Rate PUF PY2026 NaN Analysis ===
+
+
+AL (67,473 rows)
+------------------------------------------------------------
+   Columns with NaNs: 8 out of 20
+   IndividualTobaccoRate               :     40,443 rows ( 59.94%)
+   Couple                              :     67,473 rows (100.00%)
+   PrimarySubscriberAndOneDependent    :     67,473 rows (100.00%)
+   PrimarySubscriberAndTwoDependents   :     67,473 rows (100.00%)
+   PrimarySubscriberAndThreeOrMoreDependents :     67,473 rows (100.00%)
+   CoupleAndOneDependent               :     67,473 rows (100.00%)
+   CoupleAndTwoDependents              :     67,473 rows (100.00%)
+   CoupleAndThreeOrMoreDependents      :     67,473 rows (100.00%)
+   Overall missing cells: 37.997%
+
+FL (567,681 rows)
+------------------------------------------------------------
+   Columns with NaNs: 8 out of 20
+   IndividualTobaccoRate               :    217,158 rows ( 38.25%)
+   Couple                              :    567,681 rows (100.00%)
+   PrimarySubscriberAndOneDependent    :    567,681 rows (100.00%)
+   PrimarySubscriberAndTwoDependents   :    567,681 rows (100.00%)
+   PrimarySubscriberAndThreeOrMoreDependents :    567,681 rows (100.00%)
+   CoupleAndOneDependent               :    567,681 rows (100.00%)
+   CoupleAndTwoDependents              :    567,681 rows (100.00%)
+   CoupleAndThreeOrMoreDependents      :    567,681 rows (100.00%)
+   Overall missing cells: 36.913%
+
+MT (31,110 rows)
+------------------------------------------------------------
+   Columns with NaNs: 8 out of 20
+   IndividualTobaccoRate               :     23,460 rows ( 75.41%)
+   Couple                              :     31,110 rows (100.00%)
+   PrimarySubscriberAndOneDependent    :     31,110 rows (100.00%)
+   PrimarySubscriberAndTwoDependents   :     31,110 rows (100.00%)
+   PrimarySubscriberAndThreeOrMoreDependents :     31,110 rows (100.00%)
+   CoupleAndOneDependent               :     31,110 rows (100.00%)
+   CoupleAndTwoDependents              :     31,110 rows (100.00%)
+   CoupleAndThreeOrMoreDependents      :     31,110 rows (100.00%)
+   Overall missing cells: 38.770%
+
+NC (75,072 rows)
+------------------------------------------------------------
+   Columns with NaNs: 8 out of 20
+   IndividualTobaccoRate               :     26,928 rows ( 35.87%)
+   Couple                              :     75,072 rows (100.00%)
+   PrimarySubscriberAndOneDependent    :     75,072 rows (100.00%)
+   PrimarySubscriberAndTwoDependents   :     75,072 rows (100.00%)
+   PrimarySubscriberAndThreeOrMoreDependents :     75,072 rows (100.00%)
+   CoupleAndOneDependent               :     75,072 rows (100.00%)
+   CoupleAndTwoDependents              :     75,072 rows (100.00%)
+   CoupleAndThreeOrMoreDependents      :     75,072 rows (100.00%)
+   Overall missing cells: 36.793%
+
+OK (27,846 rows)
+------------------------------------------------------------
+   Columns with NaNs: 8 out of 20
+   IndividualTobaccoRate               :      8,874 rows ( 31.87%)
+   Couple                              :     27,846 rows (100.00%)
+   PrimarySubscriberAndOneDependent    :     27,846 rows (100.00%)
+   PrimarySubscriberAndTwoDependents   :     27,846 rows (100.00%)
+   PrimarySubscriberAndThreeOrMoreDependents :     27,846 rows (100.00%)
+   CoupleAndOneDependent               :     27,846 rows (100.00%)
+   CoupleAndTwoDependents              :     27,846 rows (100.00%)
+   CoupleAndThreeOrMoreDependents      :     27,846 rows (100.00%)
+   Overall missing cells: 36.593%
+
+SC (191,760 rows)
+------------------------------------------------------------
+   Columns with NaNs: 8 out of 20
+   IndividualTobaccoRate               :     85,986 rows ( 44.84%)
+   Couple                              :    191,760 rows (100.00%)
+   PrimarySubscriberAndOneDependent    :    191,760 rows (100.00%)
+   PrimarySubscriberAndTwoDependents   :    191,760 rows (100.00%)
+   PrimarySubscriberAndThreeOrMoreDependents :    191,760 rows (100.00%)
+   CoupleAndOneDependent               :    191,760 rows (100.00%)
+   CoupleAndTwoDependents              :    191,760 rows (100.00%)
+   CoupleAndThreeOrMoreDependents      :    191,760 rows (100.00%)
+   Overall missing cells: 37.242%
+
+TN (36,975 rows)
+------------------------------------------------------------
+   Columns with NaNs: 8 out of 20
+   IndividualTobaccoRate               :     20,604 rows ( 55.72%)
+   Couple                              :     36,975 rows (100.00%)
+   PrimarySubscriberAndOneDependent    :     36,975 rows (100.00%)
+   PrimarySubscriberAndTwoDependents   :     36,975 rows (100.00%)
+   PrimarySubscriberAndThreeOrMoreDependents :     36,975 rows (100.00%)
+   CoupleAndOneDependent               :     36,975 rows (100.00%)
+   CoupleAndTwoDependents              :     36,975 rows (100.00%)
+   CoupleAndThreeOrMoreDependents      :     36,975 rows (100.00%)
+   Overall missing cells: 37.786%
+
+TX (203,592 rows)
+------------------------------------------------------------
+   Columns with NaNs: 8 out of 20
+   IndividualTobaccoRate               :    103,071 rows ( 50.63%)
+   Couple                              :    203,592 rows (100.00%)
+   PrimarySubscriberAndOneDependent    :    203,592 rows (100.00%)
+   PrimarySubscriberAndTwoDependents   :    203,592 rows (100.00%)
+   PrimarySubscriberAndThreeOrMoreDependents :    203,592 rows (100.00%)
+   CoupleAndOneDependent               :    203,592 rows (100.00%)
+   CoupleAndTwoDependents              :    203,592 rows (100.00%)
+   CoupleAndThreeOrMoreDependents      :    203,592 rows (100.00%)
+   Overall missing cells: 37.531%
